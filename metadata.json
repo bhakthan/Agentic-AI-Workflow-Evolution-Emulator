@@ -1,5 +1,6 @@
 {
   "name": "AI Workflow Evolution Visualizer",
   "description": "An interactive animated visualization demonstrating the evolution from traditional workflows to autonomous AI agents.",
-  "requestFramePermissions": []
+  "requestFramePermissions": [],
+  "majorCapabilities": []
 }
